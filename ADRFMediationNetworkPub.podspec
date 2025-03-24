@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'ADRFMediationNetwork'
+  s.name             = 'ADRFMediationNetworkPub'
   s.version          = '0.2.1.06291'
   s.summary          = 'A short description of ADRFMediationNetwork.'
 
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/ADRanfeng/adrfmediation-network-ios-pod.git'
+  s.homepage         = 'https://github.com/RanfengPub/adrfmediation-network-ios-pod-masterPub.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.authors          = {"business@ssdmobile.cn"=>"business@ssdmobile.cn"}
-  s.source           = { :git => 'https://github.com/ADRanfeng/adrfmediation-network-ios-pod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/RanfengPub/adrfmediation-network-ios-pod-masterPub.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
 
