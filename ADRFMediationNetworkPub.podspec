@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
 
   s.vendored_frameworks = 'ADRFMediationNetwork/Classes/*.xcframework'
   
-  s.dependency 'ADRFMediationKit', '~> 0.7.0'
+  s.dependency 'ADRFMediationKitPub', '~> 0.7.0'
   
   s.frameworks = 'UIKit'
   
